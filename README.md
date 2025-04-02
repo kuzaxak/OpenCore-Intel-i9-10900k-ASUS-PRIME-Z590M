@@ -8,15 +8,15 @@
 * AMD Radeon RX 6900 XT (dGPU)
 * UHD Graphics 630 (iGPU)
 
-# EFI 
+# EFI
 
 SMBIOS: iMac20,2
-OpenCore: 0.7.2
-
+OpenCore: 1.0.4
+MacOS: Sonoma 14.7 (23H124)
 
 # Working
-- [x] **Tested with macOS macOS Big Sur 11.5.2**
-- [ ] **Dont have WiFi**
+- [x] **Tested with macOS macOS Sonoma 14.7 (23H124)**
+- [ ] **WiFi is not working**
 - [x] **USB**, except Type-C port.
 - [x] **1Gbit Ethernet (Intel onboard)**
 - [x] **Sleep/Wake**
@@ -40,7 +40,7 @@ If you want to change this, just edit this setting in the config.plist:
 # Credits
 Thanks for your support
 - [Dortania](https://github.com/dortania) for this great OpenCore Desktop Guide
-- [SchmockLord](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D) for Original repo with the config 
+- [SchmockLord](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D) for Original repo with the config
 - [Acidanthera](https://github.com/acidanthera)
 - [RehabMan](https://github.com/RehabMan)
 - [OpenCore project](https://github.com/OpenCorePkg)
